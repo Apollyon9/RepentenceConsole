@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>Debug console enabler</name>
+    <directory>debug_mode</directory>
+    <id>834434536</id>
+    <description>Enables the developer console on the grave '`' or tilde '~' key</description>
+    <version>1.1</version>
+    <visibility>Public</visibility>
+    <tag id="Tweaks"/>
+</metadata>
